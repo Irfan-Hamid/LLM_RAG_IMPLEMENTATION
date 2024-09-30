@@ -13,7 +13,7 @@ Key Components:
    A retrieval system built on vector embeddings is used to match user queries with the most relevant text chunks from the PDF content.
 
 3. Context-Aware Prompt Generation and Response:
-   Retrieved text chunks are combined to form context-aware prompts, which are passed to the Google/GEMMA-7B-it language model. The model generates context-driven responses that are accurate and based on the relevant content of the PDF file.
+   Retrieved text chunks are combined to form context-aware prompts, which are passed to the Google/GEMMA-7B-it LLM. The model generates context-driven responses that are accurate and based on the relevant content of the PDF file.
 
 Repository Contents:
 
